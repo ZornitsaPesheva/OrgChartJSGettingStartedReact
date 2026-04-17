@@ -1,16 +1,10 @@
 {
-  "name": "minimal-react-vite",
+  "name": "minimal-react",
+  "private": true,
   "version": "1.0.0",
-  "scripts": {
-    "dev": "vite",
-    "build": "vite build"
-  },
+  "type": "module",
   "dependencies": {
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1"
-  },
-  "devDependencies": {
-    "@vitejs/plugin-react": "^4.3.1",
-    "vite": "^5.4.10"
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
   }
 }
