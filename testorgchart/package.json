@@ -4,6 +4,8 @@
   "version": "1.0.0",
   "type": "module",
   "dependencies": {
+    "balkan-orgchart-js": "^9.1.86",
+    "balkan-orgchart-react": "^9.1.86",
     "react": "^19.2.0",
     "react-dom": "^19.2.0"
   }
